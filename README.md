@@ -3,6 +3,8 @@ The folders WeatherPy and VacationPy contain the script files Weather.ipynb and 
 
 Analysis
 
-The closer we get to thee equator the higher the temperature.
-Since data has been collected in the winter, the temperatures are warmer in northen hemisphire.
-No relationship was found between city latitude and wind speed, cloudiness and Humidity.
+1. The closer we get to thee equator the higher the temperature
+
+2. Since data has been collected in the winter, the temperatures are warmer in northen hemisphire.
+
+3. No relationship was found between city latitude and wind speed, cloudiness and Humidity.
